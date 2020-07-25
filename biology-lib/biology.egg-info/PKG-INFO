@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: biology
+Version: 0.0.1
+Summary: A Python biology package.
+Home-page: UNKNOWN
+Author: Matthew Feng
+Author-email: matt@incubatory.xyz
+License: UNKNOWN
+Description: # biology
+        
+        A Python package for common bioinformatics tasks.
+        
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
