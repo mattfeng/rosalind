@@ -1,7 +1,7 @@
 # rosalind
 
 <p align="center">
-  <img alt="rosalind-logo" width="400px" src="./assets/logo"/>
+  <img alt="rosalind-logo" width="400px" src="./assets/logo.png"/>
 </p>
 
 ## How this repository is organized
