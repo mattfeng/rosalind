@@ -2,5 +2,5 @@ __MACOSX
 .DS_Store
 
 __pycache__
-*.egg_info
+*.egg-info
 *.py[aoc]
