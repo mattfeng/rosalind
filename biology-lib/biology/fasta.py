@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+from collections import OrderedDict
+
 def read_fasta(f):
     """Read in a FASTA file.
 
@@ -7,7 +9,7 @@ def read_fasta(f):
     :return: Dictionary containing sequence IDs and sequence values.
     :rtype: dict
     """
-    seqs = {}
+    seqs = OrderedDict()
 
     header = f.readline().strip().lstrip(">")
     while True:
